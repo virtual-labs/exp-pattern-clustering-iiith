@@ -1,1 +1,1 @@
-## Experiment name
+## Competitive learning neural networks
