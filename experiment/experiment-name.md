@@ -1,1 +1,1 @@
-## Competitive learning neural networks
+## Competitive Learning Neural Networks
