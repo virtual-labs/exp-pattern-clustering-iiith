@@ -1,0 +1,4 @@
+- B. Yegnanarayana, Artificial Neural Networks, New Delhi, India : Prentice-Hall of India, p. 201, 1999.
+- T. Kohonen, "Self-organized formation of topologically correct feature maps", Biol. Cybernet., vol. 43, pp. 59-69, 1982b.
+- T. Kohonen, Self-organization and Associative Memory, 3rd ed., Berlin: Springer-Verlag, 1989.
+- T. Kohonen, "Analysis of simple self-organizing process", Biol. Cybernet., vol. 44, pp. 135-140, 1982a.
